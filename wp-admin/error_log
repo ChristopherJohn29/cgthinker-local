@@ -1,0 +1,6 @@
+[09-Aug-2017 11:18:52] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[10-Aug-2017 08:06:17] PHP Warning:  inet_pton() [<a href='function.inet-pton'>function.inet-pton</a>]: Unrecognized address for=203.87.251.187 in /home4/cgthink1/public_html/wp-admin/includes/class-wp-community-events.php on line 268
+[10-Aug-2017 08:06:17] PHP Warning:  inet_ntop() [<a href='function.inet-ntop'>function.inet-ntop</a>]: Invalid in_addr value in /home4/cgthink1/public_html/wp-admin/includes/class-wp-community-events.php on line 274
+[10-Aug-2017 08:06:37] PHP Warning:  inet_pton() [<a href='function.inet-pton'>function.inet-pton</a>]: Unrecognized address for=203.87.251.187 in /home4/cgthink1/public_html/wp-admin/includes/class-wp-community-events.php on line 268
+[10-Aug-2017 08:06:37] PHP Warning:  inet_ntop() [<a href='function.inet-ntop'>function.inet-ntop</a>]: Invalid in_addr value in /home4/cgthink1/public_html/wp-admin/includes/class-wp-community-events.php on line 274
+[22-Aug-2017 23:43:48] PHP Warning:  Invalid argument supplied for foreach() in /home4/cgthink1/public_html/wp-content/plugins/so-widgets-bundle/base/inc/fields/posts.class.php on line 171
